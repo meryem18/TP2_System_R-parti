@@ -1,0 +1,9 @@
+module exo2 {
+
+        interface calcul  {
+
+                void incrementer(inout long data);
+                void decrementer(inout long data);
+
+        };
+};
